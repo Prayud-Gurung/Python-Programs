@@ -5,15 +5,15 @@ Version: python 3.14.4
 
 Star patterns:
 Programs creating patterns using star, using for loop
-*           * * * *          *     * * * *
-* *         * * *          * *       * * *
-* * *       * *          * * *         * *
-* * * *     *          * * * *           *
+\*           \* \* \* \*          \*     \* \* \* \*
+\* \*         \* \* \*          \* \*       \* \* \*
+\* \* \*       \* \*          \* \* \*         \* \*
+\* \* \* \*     \*          \* \* \* \*           \*
 
-   *        * * * *
-  * *        * * *
- * * *        * *
-* * * *        *
+   \*        \* \* \* \*
+  \* \*        \* \* \*
+ \* \* \*        \* \*
+\* \* \* \*        \*
 
 Passowrd Checker:
 Check length, uppercase, lowercase, digit, special characters, and repitiiton usiing regular expressions
