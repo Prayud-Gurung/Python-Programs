@@ -18,3 +18,12 @@ using while loop
 Palindrome Checker: Check if the user input is palindrome or not, using for loop and string slicing
 
 Fibonacci sequence generator: Take input from user, and generate fibonacci sequence using for loop
+
+TaskList:
+Add task to the lsit after getting input from the user, view the list and allow user to remove or mark the task as done in CLI
+
+ContactBook:
+Take input from the user (name, email and contact number) and add to dictionary. View user the contacts, allow them to search, remove, and update the contacts done in CLI
+
+Notes:
+Create note.txt, get input from the user and add to and read from the .txt file. Using proper file handling and try/except for error handling
